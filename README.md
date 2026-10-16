@@ -1,4 +1,4 @@
-# Dauun 👋
+# Hi, I'm Dauun 👋
 
 Security and networking professional with hands-on experience in threat intelligence, log analysis, detection, routers, and switches.
 
